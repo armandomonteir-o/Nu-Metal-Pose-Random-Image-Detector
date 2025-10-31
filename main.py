@@ -44,7 +44,7 @@ def is_hand_open(hand_landmarks):
 # Upload das imagens
 ASSET_MAP = [
     {"image": "numetal.jpg", "sound": "assets/NOOKIE.mp3"},
-    {"image": "avril.jpg", "sound": None},
+    {"image": "avril.jpg", "sound": "assets/complicated-avril.mp3"},
     {"image": "serj.jpg", "sound": "assets/i-e-a-i.mp3"},
     {"image": "davi.jpg", "sound": "assets/calma-calabreso.mp3"},
     {"image": "calma.jpg", "sound": None},
